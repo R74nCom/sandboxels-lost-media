@@ -1,0 +1,17 @@
+[Version 0.5]
+    + New name: Sandboxels (Sandbox + Pixels)
+    + Mushrooms
+        + Mushroom Spore grows a mushroom
+        + Mushroom Stalk makes up the stem
+        + Mushroom gill creates the cap
+        + Mushroom Cap
+        + Hyphae grows underneath the mushroom in dirt
+    + Permafrost
+    + Chocolate & Chocolate Syrup
+    + Cheese
+    + Fireflies
+    + Fireballs
+    + Frozen Meat
+    + Frozen Frogs
+    ~ Heat & Cool tools look more natural
+    ~ Gravel can now melt
